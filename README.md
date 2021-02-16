@@ -29,16 +29,14 @@ Pytorch--- main.ipynb
 Testing
 Runtime --- Run all
 (Here you may encounter a couple of bugs
-<br><br>
+
 1. Need to switch to GPU.
-<br><br>
+
 2, Import Error.
 ``` Python
    
     Cannot import name ‘isStringType’’
 ```
-*The instruction listed on the next page
-
 Training (Optional):
 Change TRAIN to True. --- Runtime --- Run all --- Enter the authorization code with your UOttawa account
 
@@ -50,5 +48,5 @@ Instructions to fix the previous bugs
 Edit --- Notebook settings --- Hardware accelerator --- Select ‘GPU’ --- Save --- Runtime ---
 Run all
 
-2, Import Error. Cannot import name ``‘isStringType’``
+2. Import Error. Cannot import name ``‘isStringType’``
 Runtime --- Restart runtime --- Select Cell 2 --- Run after
