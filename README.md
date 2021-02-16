@@ -30,9 +30,10 @@ Testing
 Runtime --- Run all
 (Here you may encounter a couple of bugs: )
 1. Need to switch to GPU.
+<br><br>
 2, Import Error.
 ``` Python
-    ########### EXECUTE ################
+   
     Cannot import name ‘isStringType’’
 ```
 *The instruction listed on the next page
