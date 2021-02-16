@@ -29,7 +29,7 @@ Pytorch--- main.ipynb
 Testing
 Runtime --- Run all
 (Here you may encounter a couple of bugs
-<br><br
+<br><br>
 1. Need to switch to GPU.
 <br><br>
 2, Import Error.
