@@ -4,8 +4,11 @@
 Creating a fast and cost effective way to identify plant diseases using Convolutional Neural Network. Two approaches are applied to address this problem. The first approach uses 5 layers convolutional neural network with Keras. The second approach applies ResNet 152 Deep Neural Network with PyTorch. 90% accuracy obtained
 
 ## Dataset
-![alt text](https://github.com/damien2012eng/PlantDiseaseDetection/blob/main/src/images/dataset.JPG?raw=true)
-<p align="center">Fig. 1 Kaggle PlantVillage dataset </p>
+<p align="center">
+  <img  src="https://github.com/damien2012eng/PlantDiseaseDetection/blob/main/src/images/dataset.JPG">
+  <br><br>
+  Fig. 1 Kaggle PlantVillage dataset 
+</p>
 
 ## Environment
 Python version: 3.X
