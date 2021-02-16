@@ -3,6 +3,10 @@
 ## Overview
 Creating a fast and cost effective way to identify plant diseases using Convolutional Neural Network. Two approaches are applied to address this problem. The first approach uses 5 layers convolutional neural network with Keras. The second approach applies ResNet 152 Deep Neural Network with PyTorch. 90% accuracy obtained
 
+## Dataset
+![alt text](https://github.com/damien2012eng/PlantDiseaseDetection/blob/main/src/images/dataset.JPG?raw=true)
+<p align="center">Fig. 1 Kaggle PlantVillage dataset </p>
+
 ## Environment
 Python version: 3.X
 
@@ -34,7 +38,7 @@ Runtime --- Run all
 
 2, Import Error.
 ``` Python
-   
+
     Cannot import name ‘isStringType’’
 ```
 Training (Optional):
@@ -50,3 +54,7 @@ Run all
 
 2. Import Error. Cannot import name ``‘isStringType’``
 Runtime --- Restart runtime --- Select Cell 2 --- Run after
+
+## Results
+![alt text](https://github.com/damien2012eng/PlantDiseaseDetection/blob/main/src/images/evaluation.JPG?raw=true)
+<p align="center">Fig. 2 Training and testing accuracy for both approaches </p>
